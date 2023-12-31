@@ -1,0 +1,1085 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.7)  30 DEC 2023 17:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/ryken/Desktop/Medical Robotic/report.tex"
+(/home/ryken/Desktop/Medical Robotic/report.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(wsdcr.cls (/home/ryken/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+Document Class: wsdcr 2022/10/28 Waseda Course Report Class
+(/home/ryken/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/home/ryken/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/home/ryken/.miktex/texmfs/install/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip50
+\@affilsep=\skip51
+\c@Maxaffil=\count194
+\c@authors=\count195
+\c@affil=\count196
+) (/home/ryken/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/home/ryken/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/home/ryken/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/home/ryken/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+)) (/home/ryken/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (/home/ryken/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks20
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/home/ryken/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/home/ryken/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/home/ryken/.miktex/texmfs/install/tex/latex/esint/esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup6
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/home/ryken/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen164
+) (/home/ryken/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen165
+\captionmargin=\dimen166
+\caption@leftmargin=\dimen167
+\caption@rightmargin=\dimen168
+\caption@width=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count281
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count282
+) (/home/ryken/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen173
+\WF@size=\dimen174
+\c@WF@wrappedlines=\count283
+\WF@box=\box53
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+) (/home/ryken/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty (/home/ryken/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/home/ryken/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-11-09 L3 programming layer (loader) 
+ (/home/ryken/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box54
+))
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count285
+\l__lipsum_a_int=\count286
+\l__lipsum_b_int=\count287
+ (/home/ryken/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/home/ryken/.miktex/texmfs/install/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count288
+\c@@ppsavesec=\count289
+\c@@ppsaveapp=\count290
+) (/home/ryken/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/home/ryken/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/home/ryken/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen175
+\Gm@wd@mp=\dimen176
+\Gm@odd@mp=\dimen177
+\Gm@even@mp=\dimen178
+\Gm@layoutwidth=\dimen179
+\Gm@layoutheight=\dimen180
+\Gm@layouthoffset=\dimen181
+\Gm@layoutvoffset=\dimen182
+\Gm@dimlist=\toks26
+ (/home/ryken/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/home/ryken/.miktex/texmfs/install/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2023-08-14 v2.52 (Daniel Flipo)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/l3packages/xfp/xfp.sty
+Package: xfp 2023-10-10 L3 Floating point unit
+)
+\c@DefaultLines=\count294
+\c@DefaultDepth=\count295
+\DefaultFindent=\dimen183
+\DefaultNindent=\dimen184
+\DefaultSlope=\dimen185
+\DiscardVskip=\dimen186
+\L@lettrine=\box55
+\L@lbox=\box56
+\L@tbox=\box57
+\c@L@lines=\count296
+\c@L@depth=\count297
+\L@Pindent=\dimen187
+\L@Findent=\dimen188
+\L@Nindent=\dimen189
+\L@lraise=\dimen190
+\L@first=\dimen191
+\L@next=\dimen192
+\L@slope=\dimen193
+\L@height=\dimen194
+\L@novskip=\dimen195
+\L@ruleht=\dimen196
+\L@target@ht=\dimen197
+\L@target@dp=\dimen198
+\L@target@tht=\dimen199
+\LettrineWidth=\dimen256
+\LettrineHeight=\dimen257
+\LettrineDepth=\dimen258
+
+Loading lettrine.cfg
+(/home/ryken/.miktex/texmfs/install/tex/latex/lettrine/lettrine.cfg)
+\Llist@everypar=\toks27
+) (/home/ryken/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+) (/home/ryken/.miktex/texmfs/install/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count298
+) 
+)) (/home/ryken/.miktex/texmfs/install/tex/latex/matlab-prettifier/matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab source code
+ (/home/ryken/.miktex/texmfs/install/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/home/ryken/.miktex/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count299
+\lst@gtempboxa=\box58
+\lst@token=\toks28
+\lst@length=\count300
+\lst@currlwidth=\dimen259
+\lst@column=\count301
+\lst@pos=\count302
+\lst@lostspace=\dimen260
+\lst@width=\dimen261
+\lst@newlines=\count303
+\lst@lineno=\count304
+\lst@maxwidth=\dimen262
+ (/home/ryken/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count305
+\lst@skipnumbers=\count306
+\lst@framebox=\box59
+) (/home/ryken/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+\netBracketCount@mlpr=\count307
+\blkLvl@mlpr=\count308
+\blkLvlAtClassdef@mlpr=\count309
+\emHeight@mlpr=\skip64
+\jayDepth@mlpr=\skip65
+\sectionRuleOffset@mlpr=\skip66
+\toks@mlpr=\toks29
+) (/home/ryken/.miktex/texmfs/install/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen263
+\epsfysize=\dimen264
+) (/home/ryken/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count310
+\float@exts=\toks30
+\float@box=\box60
+\@float@everytoks=\toks31
+\@floatcapt=\box61
+) (/home/ryken/.miktex/texmfs/install/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+ (/home/ryken/.miktex/texmfs/install/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (/home/ryken/.miktex/texmfs/install/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks32
+\@arclen=\dimen265
+\@arcrad=\dimen266
+\pIIe@tempdima=\dimen267
+\pIIe@tempdimb=\dimen268
+\pIIe@tempdimc=\dimen269
+\pIIe@tempdimd=\dimen270
+\pIIe@tempdime=\dimen271
+\pIIe@tempdimf=\dimen272
+) (/home/ryken/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen273
+\calc@Bdimen=\dimen274
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip69
+) (/home/ryken/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen275
+\ar@mcellbox=\box62
+\extrarowheight=\dimen276
+\NC@list=\toks33
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box63
+)
+\diagbox@boxa=\box64
+\diagbox@boxb=\box65
+\diagbox@boxm=\box66
+\diagbox@wd=\dimen277
+\diagbox@ht=\dimen278
+\diagbox@insepl=\dimen279
+\diagbox@insepr=\dimen280
+\diagbox@outsepl=\dimen281
+\diagbox@outsepr=\dimen282
+) (/home/ryken/.miktex/texmfs/install/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/home/ryken/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count314
+) (/home/ryken/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (/home/ryken/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/home/ryken/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/home/ryken/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/home/ryken/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count315
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/home/ryken/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+ (/home/ryken/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count316
+))
+\c@padzeroesN=\count317
+\fc@tmpcatcode=\count318
+\@DT@modctr=\count319
+\@ordinalctr=\count320
+\@orgargctr=\count321
+\@strctr=\count322
+\@tmpstrctr=\count323
+\@DT@loopN=\count324
+\@DT@X=\count325
+) (/home/ryken/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count326
+\@month=\count327
+\@year=\count328
+\c@HOUR=\count329
+\c@HOURXII=\count330
+\c@MINUTE=\count331
+\c@TOHOUR=\count332
+\c@TOMINUTE=\count333
+\c@SECOND=\count334
+\currenthour=\count335
+\currentminute=\count336
+\currentsecond=\count337
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count338
+\dayofyear=\count339
+\dayofweek=\count340
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks36
+\dt@b=\toks37
+)) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+ (/home/ryken/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count341
+\scratchdimen=\dimen283
+\scratchbox=\box67
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count344
+\MPscratchDim=\dimen284
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks39
+) (/home/ryken/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/home/ryken/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/home/ryken/.miktex/texmfs/install/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/home/ryken/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/home/ryken/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/home/ryken/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/home/ryken/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/home/ryken/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
+* v-part:(T,H,B)=(108.405pt, 635.97621pt, 50.58878pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=513.11745pt
+* \textheight=635.97621pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
+* \topmargin=-61.13498pt
+* \headheight=72.26999pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count347
+(/home/ryken/.miktex/texmfs/install/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 14.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (structure/introduction.tex
+<imgs/foto_enunciado.png, id=1, 816.80156pt x 535.2497pt>
+File: imgs/foto_enunciado.png Graphic file (type png)
+<use imgs/foto_enunciado.png>
+Package pdftex.def Info: imgs/foto_enunciado.png  used on input line 11.
+(pdftex.def)             Requested size: 251.43036pt x 164.75777pt.
+) (structure/Control_Design.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+esint on input line 5.
+ (/home/ryken/.miktex/texmfs/install/tex/latex/esint/uesint.fd
+File: uesint.fd 
+)
+<logo.png, id=3, 3066.45625pt x 1083.04625pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 104.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [1{/home/ryken/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/ryken/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}
+
+
+ <./logo.png> <./imgs/foto_enunciado.png>]
+
+LaTeX Warning: Reference `' on page 2 undefined on input line 170.
+
+
+LaTeX Warning: Reference `' on page 2 undefined on input line 186.
+
+
+LaTeX Warning: Reference `' on page 2 undefined on input line 186.
+
+
+Overfull \hbox (40.30147pt too wide) detected at line 244
+[]\OML/cmm/m/it/9 tg \OT1/cmr/m/n/9 = []
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 260.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+[][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+[][][][][][][][][][][][][][][][][][]
+ []
+
+
+Overfull \hbox (230.80754pt too wide) detected at line 303
+[]\OML/cmm/m/it/9 M[] \OT1/cmr/m/n/9 = []
+ []
+
+<imgs/5.png, id=29, 368.577pt x 113.223pt>
+File: imgs/5.png Graphic file (type png)
+<use imgs/5.png>
+Package pdftex.def Info: imgs/5.png  used on input line 345.
+(pdftex.def)             Requested size: 251.43036pt x 77.2394pt.
+Package epstopdf Info: Source file: <imgs/4.1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 46041 bytes
+(epstopdf)             Output file: <imgs/4.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:07
+(epstopdf)                    size: 8162 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/4.1-eps-converted-to.pdf imgs/4.1.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/4.1-eps-converted-to.pdf, id=30, 421.575pt x 316.18124pt>
+File: imgs/4.1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/4.1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/4.1-eps-converted-to.pdf  used on input line 362.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 366.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [3 <./imgs/5.png>]
+Package epstopdf Info: Source file: <imgs/4.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 65941 bytes
+(epstopdf)             Output file: <imgs/4.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:07
+(epstopdf)                    size: 8973 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/4.2-eps-converted-to.pdf imgs/4.2.eps>
+(epstopdf)             \includegraphics on input line 369.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/4.2-eps-converted-to.pdf, id=35, 421.575pt x 316.18124pt>
+File: imgs/4.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/4.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/4.2-eps-converted-to.pdf  used on input line 369.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/4.3.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 104370 bytes
+(epstopdf)             Output file: <imgs/4.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:08
+(epstopdf)                    size: 12137 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/4.3-eps-converted-to.pdf imgs/4.3.eps>
+(epstopdf)             \includegraphics on input line 376.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/4.3-eps-converted-to.pdf, id=36, 421.575pt x 316.18124pt>
+File: imgs/4.3-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/4.3-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/4.3-eps-converted-to.pdf  used on input line 376.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <imgs/4.4.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 25654 bytes
+(epstopdf)             Output file: <imgs/4.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:08
+(epstopdf)                    size: 24778 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/4.4-eps-converted-to.pdf imgs/4.4.eps>
+(epstopdf)             \includegraphics on input line 383.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/4.4-eps-converted-to.pdf, id=37, 421.575pt x 316.18124pt>
+File: imgs/4.4-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/4.4-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/4.4-eps-converted-to.pdf  used on input line 383.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/5.1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 27722 bytes
+(epstopdf)             Output file: <imgs/5.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:09
+(epstopdf)                    size: 5530 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/5.1-eps-converted-to.pdf imgs/5.1.eps>
+(epstopdf)             \includegraphics on input line 396.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/5.1-eps-converted-to.pdf, id=38, 421.575pt x 316.18124pt>
+File: imgs/5.1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/5.1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/5.1-eps-converted-to.pdf  used on input line 396.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 400.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [4 <./imgs/4.1-eps-converted-to.pdf> <./imgs/4.2-eps-converted-to.pdf> <./imgs/4.3-eps-converted-to.pdf> <./imgs/4.4-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imgs/6.1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 34124 bytes
+(epstopdf)             Output file: <imgs/6.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:10
+(epstopdf)                    size: 6437 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/6.1-eps-converted-to.pdf imgs/6.1.eps>
+(epstopdf)             \includegraphics on input line 417.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/6.1-eps-converted-to.pdf, id=63, 421.575pt x 316.18124pt>
+File: imgs/6.1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/6.1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/6.1-eps-converted-to.pdf  used on input line 417.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/6.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 23935 bytes
+(epstopdf)             Output file: <imgs/6.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:10
+(epstopdf)                    size: 23005 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/6.2-eps-converted-to.pdf imgs/6.2.eps>
+(epstopdf)             \includegraphics on input line 424.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/6.2-eps-converted-to.pdf, id=64, 421.575pt x 316.18124pt>
+File: imgs/6.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/6.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/6.2-eps-converted-to.pdf  used on input line 424.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/6.3.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 25903 bytes
+(epstopdf)             Output file: <imgs/6.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:11
+(epstopdf)                    size: 24907 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/6.3-eps-converted-to.pdf imgs/6.3.eps>
+(epstopdf)             \includegraphics on input line 431.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/6.3-eps-converted-to.pdf, id=65, 421.575pt x 316.18124pt>
+File: imgs/6.3-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/6.3-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/6.3-eps-converted-to.pdf  used on input line 431.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/6.4.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 65119 bytes
+(epstopdf)             Output file: <imgs/6.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:11
+(epstopdf)                    size: 8156 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/6.4-eps-converted-to.pdf imgs/6.4.eps>
+(epstopdf)             \includegraphics on input line 438.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/6.4-eps-converted-to.pdf, id=66, 421.575pt x 316.18124pt>
+File: imgs/6.4-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/6.4-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/6.4-eps-converted-to.pdf  used on input line 438.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 442.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [5 <./imgs/5.1-eps-converted-to.pdf> <./imgs/6.1-eps-converted-to.pdf> <./imgs/6.2-eps-converted-to.pdf> <./imgs/6.3-eps-converted-to.pdf>]
+<imgs/7.1.png, id=95, 504.08325pt x 251.13824pt>
+File: imgs/7.1.png Graphic file (type png)
+<use imgs/7.1.png>
+Package pdftex.def Info: imgs/7.1.png  used on input line 454.
+(pdftex.def)             Requested size: 251.43036pt x 125.26224pt.
+Package epstopdf Info: Source file: <imgs/7.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 44190 bytes
+(epstopdf)             Output file: <imgs/7.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:12
+(epstopdf)                    size: 9264 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/7.2-eps-converted-to.pdf imgs/7.2.eps>
+(epstopdf)             \includegraphics on input line 467.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/7.2-eps-converted-to.pdf, id=96, 421.575pt x 316.18124pt>
+File: imgs/7.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/7.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/7.2-eps-converted-to.pdf  used on input line 467.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/7.3.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 50437 bytes
+(epstopdf)             Output file: <imgs/7.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:12
+(epstopdf)                    size: 10213 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/7.3-eps-converted-to.pdf imgs/7.3.eps>
+(epstopdf)             \includegraphics on input line 474.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/7.3-eps-converted-to.pdf, id=97, 421.575pt x 316.18124pt>
+File: imgs/7.3-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/7.3-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/7.3-eps-converted-to.pdf  used on input line 474.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/7.4.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 88464 bytes
+(epstopdf)             Output file: <imgs/7.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:13
+(epstopdf)                    size: 16127 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/7.4-eps-converted-to.pdf imgs/7.4.eps>
+(epstopdf)             \includegraphics on input line 481.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/7.4-eps-converted-to.pdf, id=98, 421.575pt x 316.18124pt>
+File: imgs/7.4-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/7.4-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/7.4-eps-converted-to.pdf  used on input line 481.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 485.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [6 <./imgs/6.4-eps-converted-to.pdf> <./imgs/7.1.png> <./imgs/7.2-eps-converted-to.pdf> <./imgs/7.3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imgs/7.5.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 26535 bytes
+(epstopdf)             Output file: <imgs/7.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:13
+(epstopdf)                    size: 25834 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/7.5-eps-converted-to.pdf imgs/7.5.eps>
+(epstopdf)             \includegraphics on input line 488.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/7.5-eps-converted-to.pdf, id=118, 421.575pt x 316.18124pt>
+File: imgs/7.5-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/7.5-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/7.5-eps-converted-to.pdf  used on input line 488.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/71.1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 53953 bytes
+(epstopdf)             Output file: <imgs/71.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:14
+(epstopdf)                    size: 9623 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/71.1-eps-converted-to.pdf imgs/71.1.eps>
+(epstopdf)             \includegraphics on input line 505.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/71.1-eps-converted-to.pdf, id=119, 421.575pt x 316.18124pt>
+File: imgs/71.1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/71.1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/71.1-eps-converted-to.pdf  used on input line 505.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/71.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 50297 bytes
+(epstopdf)             Output file: <imgs/71.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:14
+(epstopdf)                    size: 9134 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/71.2-eps-converted-to.pdf imgs/71.2.eps>
+(epstopdf)             \includegraphics on input line 512.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/71.2-eps-converted-to.pdf, id=120, 421.575pt x 316.18124pt>
+File: imgs/71.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/71.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/71.2-eps-converted-to.pdf  used on input line 512.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/71.3.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 78595 bytes
+(epstopdf)             Output file: <imgs/71.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:15
+(epstopdf)                    size: 12486 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/71.3-eps-converted-to.pdf imgs/71.3.eps>
+(epstopdf)             \includegraphics on input line 519.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/71.3-eps-converted-to.pdf, id=121, 421.575pt x 316.18124pt>
+File: imgs/71.3-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/71.3-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/71.3-eps-converted-to.pdf  used on input line 519.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 523.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [7 <./imgs/7.4-eps-converted-to.pdf> <./imgs/7.5-eps-converted-to.pdf> <./imgs/71.1-eps-converted-to.pdf> <./imgs/71.2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imgs/71.4.eps>
+(epstopdf)                    date: 2023-12-30 16:45:52
+(epstopdf)                    size: 73385 bytes
+(epstopdf)             Output file: <imgs/71.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:16
+(epstopdf)                    size: 11665 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/71.4-eps-converted-to.pdf imgs/71.4.eps>
+(epstopdf)             \includegraphics on input line 526.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/71.4-eps-converted-to.pdf, id=147, 421.575pt x 316.18124pt>
+File: imgs/71.4-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/71.4-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/71.4-eps-converted-to.pdf  used on input line 526.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <imgs/8.1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 25422 bytes
+(epstopdf)             Output file: <imgs/8.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:16
+(epstopdf)                    size: 24795 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/8.1-eps-converted-to.pdf imgs/8.1.eps>
+(epstopdf)             \includegraphics on input line 549.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/8.1-eps-converted-to.pdf, id=148, 421.575pt x 316.18124pt>
+File: imgs/8.1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/8.1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/8.1-eps-converted-to.pdf  used on input line 549.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+Package epstopdf Info: Source file: <imgs/8.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 24805 bytes
+(epstopdf)             Output file: <imgs/8.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:17
+(epstopdf)                    size: 24175 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/8.2-eps-converted-to.pdf imgs/8.2.eps>
+(epstopdf)             \includegraphics on input line 556.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/8.2-eps-converted-to.pdf, id=149, 421.575pt x 316.18124pt>
+File: imgs/8.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/8.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/8.2-eps-converted-to.pdf  used on input line 556.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 560.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [8 <./imgs/71.3-eps-converted-to.pdf> <./imgs/71.4-eps-converted-to.pdf> <./imgs/8.1-eps-converted-to.pdf>]
+<imgs/9.1.png, id=169, 504.08325pt x 265.59225pt>
+File: imgs/9.1.png Graphic file (type png)
+<use imgs/9.1.png>
+Package pdftex.def Info: imgs/9.1.png  used on input line 585.
+(pdftex.def)             Requested size: 251.43036pt x 132.47157pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <imgs/9.2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 25456 bytes
+(epstopdf)             Output file: <imgs/9.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:17
+(epstopdf)                    size: 24846 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/9.2-eps-converted-to.pdf imgs/9.2.eps>
+(epstopdf)             \includegraphics on input line 594.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/9.2-eps-converted-to.pdf, id=170, 421.575pt x 316.18124pt>
+File: imgs/9.2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/9.2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/9.2-eps-converted-to.pdf  used on input line 594.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+) (structure/Trajectory_Design.tex
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 7.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [9 <./imgs/8.2-eps-converted-to.pdf> <./imgs/9.1.png> <./imgs/9.2-eps-converted-to.pdf>]
+<imgs/10.1.png, id=187, 307.74976pt x 196.3335pt>
+File: imgs/10.1.png Graphic file (type png)
+<use imgs/10.1.png>
+Package pdftex.def Info: imgs/10.1.png  used on input line 10.
+(pdftex.def)             Requested size: 251.43036pt x 160.41031pt.
+<imgs/10.2.png, id=188, 501.072pt x 216.81pt>
+File: imgs/10.2.png Graphic file (type png)
+<use imgs/10.2.png>
+Package pdftex.def Info: imgs/10.2.png  used on input line 17.
+(pdftex.def)             Requested size: 251.43036pt x 108.7918pt.
+Package epstopdf Info: Source file: <imgs/10.3.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 90616 bytes
+(epstopdf)             Output file: <imgs/10.3-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:18
+(epstopdf)                    size: 11835 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/10.3-eps-converted-to.pdf imgs/10.3.eps>
+(epstopdf)             \includegraphics on input line 26.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/10.3-eps-converted-to.pdf, id=189, 421.575pt x 316.18124pt>
+File: imgs/10.3-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/10.3-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/10.3-eps-converted-to.pdf  used on input line 26.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <imgs/10.4.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 90429 bytes
+(epstopdf)             Output file: <imgs/10.4-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:18
+(epstopdf)                    size: 11888 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/10.4-eps-converted-to.pdf imgs/10.4.eps>
+(epstopdf)             \includegraphics on input line 33.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/10.4-eps-converted-to.pdf, id=190, 421.575pt x 316.18124pt>
+File: imgs/10.4-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/10.4-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/10.4-eps-converted-to.pdf  used on input line 33.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+) (structure/Free_research.tex
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 4.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [10 <./imgs/10.1.png> <./imgs/10.2.png> <./imgs/10.3-eps-converted-to.pdf> <./imgs/10.4-eps-converted-to.pdf>]
+<imgs/f3.png, id=206, 476.982pt x 380.622pt>
+File: imgs/f3.png Graphic file (type png)
+<use imgs/f3.png>
+Package pdftex.def Info: imgs/f3.png  used on input line 9.
+(pdftex.def)             Requested size: 251.43036pt x 200.63681pt.
+Package epstopdf Info: Source file: <imgs/f1.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 90883 bytes
+(epstopdf)             Output file: <imgs/f1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:19
+(epstopdf)                    size: 11848 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/f1-eps-converted-to.pdf imgs/f1.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/f1-eps-converted-to.pdf, id=207, 421.575pt x 316.18124pt>
+File: imgs/f1-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/f1-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/f1-eps-converted-to.pdf  used on input line 22.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <imgs/f2.eps>
+(epstopdf)                    date: 2023-12-30 16:45:54
+(epstopdf)                    size: 93829 bytes
+(epstopdf)             Output file: <imgs/f2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-30 16:48:20
+(epstopdf)                    size: 12018 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imgs/f2-eps-converted-to.pdf imgs/f2.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+<imgs/f2-eps-converted-to.pdf, id=208, 421.575pt x 316.18124pt>
+File: imgs/f2-eps-converted-to.pdf Graphic file (type pdf)
+<use imgs/f2-eps-converted-to.pdf>
+Package pdftex.def Info: imgs/f2-eps-converted-to.pdf  used on input line 29.
+(pdftex.def)             Requested size: 251.43036pt x 188.57643pt.
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 52.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [11 <./imgs/f3.png> <./imgs/f1-eps-converted-to.pdf> <./imgs/f2-eps-converted-to.pdf>]) (structure/Conclusion.tex)
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 26.
+(pdftex.def)             Requested size: 144.54pt x 51.0486pt.
+ [12
+
+] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(report.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11048 strings out of 474588
+ 183522 string characters out of 5750458
+ 1984555 words of memory out of 5000000
+ 32987 multiletter control sequences out of 15000+600000
+ 572808 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,20n,107p,1027b,1797s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/ryken/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmss8.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/ryken/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on report.pdf (12 pages, 885322 bytes).
+PDF statistics:
+ 308 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+

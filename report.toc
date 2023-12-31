@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Goal}{2}{}%
+\contentsline {section}{\numberline {2}Introduction}{2}{}%
+\contentsline {section}{\numberline {3}Control Design}{2}{}%
+\contentsline {subsection}{\numberline {A}1 - Forward Kinematics}{2}{}%
+\contentsline {subsection}{\numberline {B}2 - Jacobian Matrix}{3}{}%
+\contentsline {subsection}{\numberline {C}3 - Compute $M(q), C(q,\dot {q}), g(q)$}{3}{}%
+\contentsline {subsection}{\numberline {D}3.1 - Gravity term}{4}{}%
+\contentsline {subsection}{\numberline {E}3.2 - Inertia matrix}{4}{}%
+\contentsline {subsection}{\numberline {F}3.3 - Coriolis Matrix}{4}{}%
+\contentsline {subsection}{\numberline {G}4 - First tests with the robot}{4}{}%
+\contentsline {subsection}{\numberline {H}5 - Tests with $\tau = g(q)$}{5}{}%
+\contentsline {subsection}{\numberline {I}6 - Tests with different Cartesian forces}{6}{}%
+\contentsline {subsection}{\numberline {J}7 - Tests for position control schemes in the task space}{7}{}%
+\contentsline {subsection}{\numberline {K}8 - Tests for Compliance Control}{9}{}%
+\contentsline {subsection}{\numberline {L}9 - Tests for Impedance Control}{10}{}%
+\contentsline {section}{\numberline {4}Trajectory Design}{10}{}%
+\contentsline {section}{\numberline {5}Free Research}{11}{}%
+\contentsline {section}{\numberline {6}Conclusion}{13}{}%
